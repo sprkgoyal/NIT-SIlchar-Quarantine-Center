@@ -1,0 +1,7 @@
+Rohit Goyal,21,2020-05-15,Goa,Assam
+Ayushman Mathur,20,2020-08-10,Bihar,Silchar
+Akangsha Goswami,56,2020-06-28,Guwahati,Silchar
+Samiksha Kulkarni,68,2020-08-25,Bangladesh,Silchar
+Abhishek Kumar Thakur,45,2020-09-21,Kolkata,Bangladesh
+Apil Thapa,32,2020-11-12,Uttar Pradesh,Silchar
+Abhinav Pitliya,82,2020-12-01,Rajasthan,Silchar

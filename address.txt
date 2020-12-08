@@ -1,0 +1,7 @@
+Rohit Goyal,21,Goa,Assam,Baker Street,Marylebone,Marylebone,102546,London,UK
+Ayushman Mathur,20,Bihar,Silchar,Krishna Gali,Bangla,Jorhat,214562,Assam,India
+Akangsha Goswami,56,Guwahati,Silchar,Paltan Bazar,Near Guwahati Station,Guwahati,785203,Assam,India
+Samiksha Kulkarni,68,Bangladesh,Silchar,Yashwant Nagar,Ambad Road,Jalna,431203,Maharashtra,India
+Abhishek Kumar Thakur,45,Kolkata,Bangladesh,Paltan Bazar,Near Guwahati Station,Guwahati,785203,Assam,India
+Apil Thapa,32,Uttar Pradesh,Silchar,GB Road,Chawradi Bazar,Delhi,120256,New Delhi,India
+Abhinav Pitliya,82,Rajasthan,Silchar,Pitliya Mansion,Jain Area,Chittorgarh,255145,Rajasthan,India
